@@ -21,7 +21,7 @@ public class automation_project {
 	  
 	  if(hr>12||mnt>60)
 	  {
-	   System.out.println("please enter a valid input as per the format its a invalid format"); 
+	   System.out.println("*** Please enter a valid input as per the format its a invalid format ***"); 
 	  }
 	  else if(RdAngl<180)
 	  {
